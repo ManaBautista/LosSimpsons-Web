@@ -1,0 +1,49 @@
+* { 
+    box-sizing: border-box;
+    font-family: Gloria Hallelujah;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+.box01 {
+    height: 10rem;
+    width: 100%;
+    background-color: rgb(227 114 144);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+.box02 {
+    height: 50rem;
+    background-color: rgb(255 204 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box03 {
+    height: 50rem;
+    background-color: rgb(103 188 102);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+.altura01 {
+    height: 5rem;
+    background-color: rgb(0 149 143);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.altura02 {
+    height: 5rem;
+    background-color: rgb(0 149 143);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
